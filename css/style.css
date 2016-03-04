@@ -27,7 +27,7 @@
 html,body{
     height: 100%;
 	background-color: #fff;
-	font-family: 'Droid-Sans';
+	font-family: 'Droid Sans';
 }
 
 #body{
@@ -43,7 +43,7 @@ h1.page-header {
 	background-color: #2c2c2c;
 	border-radius: 5px 5px 5px;
 	text-transform: uppercase;
-	font-family: 'Droid-Sans';
+	font-family: 'Droid Sans';
 }
 
 .container-fluid {
@@ -97,7 +97,7 @@ img{
 	border-top: 7px solid #1f1f1f;
 	min-height: 100%; 
     width: 100%;
-	font-family: 'Droid-Sans';
+	font-family: 'Droid Sans';
 	margin-top:0;
 }
 
@@ -246,7 +246,7 @@ img{
 .navbar {
 	background-color:#3d3d3d;
 	font-size: 1.1em;
-	font-family: 'Droid-Sans';
+	font-family: 'Droid Sans';
 	font-weight: bold;
 	text-transform: uppercase;
 	letter-spacing: .05em;
@@ -412,14 +412,14 @@ h1 {
 	font-size: 2em;
 	font-weight: bold;
 	margin-bottom: 10px;
-	font-family: 'Droid-Sans';
+	font-family: 'Droid Sans';
 }
 
 h3 {
 	font-size: 1.5em;
 	font-weight: bold;
 	margin-bottom: 5px;
-	font-family: 'Droid-Sans';
+	font-family: 'Droid Sans';
 	color: #5b5b5b;
 	background-color: #efefef;
 	border-radius: 5px;
@@ -427,12 +427,12 @@ h3 {
 }
 
 h4 {
-	font-family: 'Droid-Sans';
+	font-family: 'Droid Sans';
 	font-weight: bold;
 }
 
 .eref h4  a{
-	font-family: 'Droid-Sans';
+	font-family: 'Droid Sans';
 	font-weight: bold;
 	color: #303030;
 }
@@ -528,7 +528,7 @@ div.login input.form-control { /*login styling */
 .region-title h2{
     font-size: 2.2em;
 	letter-spacing: .15em;
-	font-family: 'Droid-Sans';
+	font-family: 'Droid Sans';
 	font-weight: bold;
 	color: #636363;
 	text-align: center;
